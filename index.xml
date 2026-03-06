@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haeji Ahn</title>
+    <link>https://ahaeji925.github.io/</link>
+    <description>Recent content on Haeji Ahn</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ahaeji925.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://ahaeji925.github.io/about/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ahaeji925.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;hi-im-haeji-ahn&#34;&gt;Hi, I&amp;rsquo;m Haeji Ahn!&lt;/h1&gt;
+&lt;p&gt;I am a graduate student in the &lt;strong&gt;MS-CAPP&lt;/strong&gt; program at the &lt;strong&gt;University of Chicago&lt;/strong&gt; with a &lt;strong&gt;Master’s degree in Criminology&lt;/strong&gt;. I focus on technical data solutions and analytical modeling to address complex social and urban challenges. My background in &lt;strong&gt;Criminology&lt;/strong&gt; provides me with a specialized perspective on social data, allowing for deeper contextual analysis of the models and systems I build.&lt;/p&gt;
+&lt;p&gt;I am passionate about managing the entire data lifecycle and am pursuing career opportunities: DS or DE.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://ahaeji925.github.io/contact/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ahaeji925.github.io/contact/</guid>
+      <description>&lt;p&gt;I am always eager to collaborate on impactful data projects or discuss new opportunities in social policy and technology. Whether you have a question or just want to say hi, my inbox is always open.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:ahaeji925@uchicago.edu&#34;&gt;ahaeji925@uchicago.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/haeji-ahn&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resume&lt;/strong&gt;: View resume &lt;a href=&#34;https://ahaeji925.github.io/CV_Haeji_Ahn.pdf&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://ahaeji925.github.io/publications/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ahaeji925.github.io/publications/</guid>
+      <description>&lt;p&gt;I have authored &lt;strong&gt;three peer-reviewed publications&lt;/strong&gt; and have been invited as a featured speaker at several prestigious academic conferences, bridging the gap between criminological theory and data-driven insights.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-peer-reviewed-journal-articles&#34;&gt;📚 Peer-Reviewed Journal Articles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Factors Influencing Smart Phone and Game Addiction among School-Dropout Adolescents: Focusing on Gender Differences&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ahn, H.&lt;/strong&gt;, &amp;amp; Lee, C. | &lt;em&gt;Korean Association of Addiction Crime Review&lt;/em&gt;, 13(4)&lt;/li&gt;
+&lt;li&gt;[ &lt;a href=&#34;#&#34;&gt;Link&lt;/a&gt; ] [ &lt;a href=&#34;#&#34;&gt;Scholar&lt;/a&gt; ]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Effect of Violence Allowance on Dating Violation Perpetration: The Moderating Effect of Self-Esteem&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VR Simulation Workflow Design</title>
+      <link>https://ahaeji925.github.io/projects/vr-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ahaeji925.github.io/projects/vr-simulation/</guid>
+      <description>&lt;h1 id=&#34;design-of-vr-simulations-for-law-enforcement--public-safety&#34;&gt;Design of VR Simulations for Law Enforcement &amp;amp; Public Safety&lt;/h1&gt;
+&lt;p&gt;This project focuses on creating immersive virtual environments to train law enforcement officers and public safety personnel in high-stress decision-making.&lt;/p&gt;
+&lt;h3 id=&#34;-project-overview&#34;&gt;🔍 Project Overview&lt;/h3&gt;
+&lt;p&gt;By integrating &lt;strong&gt;Criminology and Crime Science&lt;/strong&gt; theories, I designed high-fidelity VR scenarios that replicate real-world legal and tactical challenges. I translated complex legal protocols into intuitive virtual workflows for effective situational training.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scenario Design&lt;/strong&gt;: Developed the &amp;ldquo;Initial Investigation &amp;amp; Convenience Store Disturbance&amp;rdquo; VR scenario, focusing on legal compliance and officer safety.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Behavioral Modeling&lt;/strong&gt;: Incorporated criminal behavior patterns and victimology into the simulation to enhance environmental realism.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Specification&lt;/strong&gt;: Authored technical requirements for VR developers to ensure the simulation maintains high procedural fidelity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-key-contributions&#34;&gt;🛠 Key Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Academic Research&lt;/strong&gt;: Leveraged findings from the &lt;em&gt;Journal of SMART Policing&lt;/em&gt; to build data-backed virtual training modules.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subject Matter Expertise&lt;/strong&gt;: Bridged the communication gap between law enforcement experts and VR engineers to ensure accurate protocol implementation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UX/UI for Training&lt;/strong&gt;: Designed user interfaces within the VR space that allow for the collection of quantitative trainee response data.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>XR: Smart Policing Simulation</title>
+      <link>https://ahaeji925.github.io/projects/xr-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ahaeji925.github.io/projects/xr-simulation/</guid>
+      <description>&lt;h1 id=&#34;development-of-xr-training-scenarios-for-law-enforcement&#34;&gt;Development of XR Training Scenarios for Law Enforcement&lt;/h1&gt;
+&lt;p&gt;This project focuses on bridging the gap between criminological theory and immersive technology by designing high-fidelity training simulations for public safety.&lt;/p&gt;
+&lt;h3 id=&#34;-project-overview&#34;&gt;🔍 Project Overview&lt;/h3&gt;
+&lt;p&gt;Based on my research published in the &lt;strong&gt;Journal of SMART Policing&lt;/strong&gt;, I developed system workflows and evaluation tools for extended reality (XR) training. I translated complex legal protocols and criminal behavior patterns into technical specifications to create realistic response scenarios.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Haeji Ahn</title>
+    <link>https://ahaeji925.github.io/projects/</link>
+    <description>Recent content in Projects on Haeji Ahn</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://ahaeji925.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VR Simulation Workflow Design</title>
+      <link>https://ahaeji925.github.io/projects/vr-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ahaeji925.github.io/projects/vr-simulation/</guid>
+      <description>&lt;h1 id=&#34;design-of-vr-simulations-for-law-enforcement--public-safety&#34;&gt;Design of VR Simulations for Law Enforcement &amp;amp; Public Safety&lt;/h1&gt;
+&lt;p&gt;This project focuses on creating immersive virtual environments to train law enforcement officers and public safety personnel in high-stress decision-making.&lt;/p&gt;
+&lt;h3 id=&#34;-project-overview&#34;&gt;🔍 Project Overview&lt;/h3&gt;
+&lt;p&gt;By integrating &lt;strong&gt;Criminology and Crime Science&lt;/strong&gt; theories, I designed high-fidelity VR scenarios that replicate real-world legal and tactical challenges. I translated complex legal protocols into intuitive virtual workflows for effective situational training.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scenario Design&lt;/strong&gt;: Developed the &amp;ldquo;Initial Investigation &amp;amp; Convenience Store Disturbance&amp;rdquo; VR scenario, focusing on legal compliance and officer safety.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Behavioral Modeling&lt;/strong&gt;: Incorporated criminal behavior patterns and victimology into the simulation to enhance environmental realism.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Specification&lt;/strong&gt;: Authored technical requirements for VR developers to ensure the simulation maintains high procedural fidelity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-key-contributions&#34;&gt;🛠 Key Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Academic Research&lt;/strong&gt;: Leveraged findings from the &lt;em&gt;Journal of SMART Policing&lt;/em&gt; to build data-backed virtual training modules.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subject Matter Expertise&lt;/strong&gt;: Bridged the communication gap between law enforcement experts and VR engineers to ensure accurate protocol implementation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UX/UI for Training&lt;/strong&gt;: Designed user interfaces within the VR space that allow for the collection of quantitative trainee response data.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>XR: Smart Policing Simulation</title>
+      <link>https://ahaeji925.github.io/projects/xr-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ahaeji925.github.io/projects/xr-simulation/</guid>
+      <description>&lt;h1 id=&#34;development-of-xr-training-scenarios-for-law-enforcement&#34;&gt;Development of XR Training Scenarios for Law Enforcement&lt;/h1&gt;
+&lt;p&gt;This project focuses on bridging the gap between criminological theory and immersive technology by designing high-fidelity training simulations for public safety.&lt;/p&gt;
+&lt;h3 id=&#34;-project-overview&#34;&gt;🔍 Project Overview&lt;/h3&gt;
+&lt;p&gt;Based on my research published in the &lt;strong&gt;Journal of SMART Policing&lt;/strong&gt;, I developed system workflows and evaluation tools for extended reality (XR) training. I translated complex legal protocols and criminal behavior patterns into technical specifications to create realistic response scenarios.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
